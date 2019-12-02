@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="OLA">
+
+
+    <listeners>
+        <listener class-name="com.ola.book.ride.utilities.Reporting"/>
+    </listeners>
+
+    <test name="Bookride test">
+        <parameter name="browser" value="chrome"> </parameter>
+        <classes >
+            <class name ="com.ola.book.ride.objectRepo.OlaBookARide"/>
+        </classes>
+    </test>
+</suite>

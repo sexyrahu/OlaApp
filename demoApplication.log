@@ -1,0 +1,169 @@
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "index.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "index.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "class-results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "class-results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+[main] DEBUG freemarker.cache  - "class-results.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[main] DEBUG freemarker.cache  - "class-results.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "index.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "index.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "class-results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "class-results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+[main] DEBUG freemarker.cache  - "class-results.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[main] DEBUG freemarker.cache  - "class-results.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+[main] INFO  com.ola.book.ride.testScripts.OlaBookARide  - Ola app has been launched successfully.
+[main] INFO  com.ola.book.ride.testScripts.OlaBookARide  - Session time out been fixed for 20 seconds
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "index.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "index.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "class-results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "class-results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "output.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "output.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/output.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "index.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "index.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "class-results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "class-results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+[main] DEBUG freemarker.cache  - "class-results.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[main] DEBUG freemarker.cache  - "class-results.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[main] INFO  com.ola.book.ride.testScripts.OlaBookARide  - Ola app has been launched successfully.
+[main] INFO  com.ola.book.ride.testScripts.OlaBookARide  - Session time out been fixed for 20 seconds
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "index.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "index.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "class-results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "class-results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "output.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "output.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/output.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "index.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "index.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "class-results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "class-results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+[main] DEBUG freemarker.cache  - "class-results.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[main] DEBUG freemarker.cache  - "class-results.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
+[main] INFO  com.ola.book.ride.testScripts.OlaBookARide  - Ola app has been launched successfully.
+[main] INFO  com.ola.book.ride.testScripts.OlaBookARide  - Session time out been fixed for 20 seconds
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "index.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("index.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "index.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/index.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "class-results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("class-results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "class-results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/class-results.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "output.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("output.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "output.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/html/output.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "results.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("results.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "results.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/300066828/.gradle/caches/modules-2/files-2.1/org.testng/reportng/1.2.2/57b789fca939dfed175e7883247288223475e626/reportng-1.2.2.jar!/org/uncommons/reportng/templates/xml/results.ftl"
